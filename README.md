@@ -8,7 +8,7 @@ Analysis of white and red wine quality dataset analyzing chemical properties of 
 
 ### Tools
 * Python
-** Pandas
-** NumPy 
-** Matplotlib
+    * Pandas
+    * NumPy 
+    * Matplotlib
 * Jupyter Notebook
